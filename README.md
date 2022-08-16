@@ -62,10 +62,10 @@ Tech Utils:
 ◉ PostgreSQL
 ◉ Sequelize
 ~~~
-<img align="left" margin= "20px" width= "450px"  src="./PI-Images/1 - landing.jpg"/>
-<img align="center" margin= "20px" width= "450px" src="./PI-Images/2 - home.jpg" />
-<img align="left" margin= "20px" width= "450px"  src="./PI-Images/3 - form.jpg" />
-<img align="center" margin= "20px" width= "450px" src="./PI-Images/4 - detail.jpg" />
+<img align="left" width="400px"  src="./PI-Images/1 - landing.jpg"/>
+<img align="center" width="400px" src="./PI-Images/2 - home.jpg" />
+<img align="left" width="400px"  src="./PI-Images/3 - form.jpg" />
+<img align="center" width="400px" src="./PI-Images/4 - detail.jpg" />
 
 ____________________
 ## World-Game  
@@ -89,10 +89,10 @@ Tech Utils:
 ✔ Cloudinary (Upload profile picture)
 ✔ Nodemailer (Sending of mails)
 ~~~
-<img align="left" width= "250px" margin= "20px"  src='./PF-Images/game.png' />
-<img align="center" width= "250px" margin= "20px"  src='./PF-Images/Profile.png' />
-<img align="left" width= "250px" margin= "20px"  src='./PF-Images/Presentancion.png' />
-<img align="center" width= "250px" margin= "20px"  src='./PF-Images/stats.png' />  
+<img align="left" width="250px" src='./PF-Images/game.png' />
+<img align="center" width="250px" src='./PF-Images/Profile.png' />
+<img align="left" width="250px" src='./PF-Images/Presentancion.png' />
+<img align="center" width="250px" src='./PF-Images/stats.png' />  
 
 ___________________________________________
 
