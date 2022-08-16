@@ -19,7 +19,7 @@ I love to challenge myself and solve problems. And that's something that in prog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feli-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Feli-dev&PF-WorldGame)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Feli-dev&repo=PF-WorldGame)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Feli-dev)](https://github.com/anuraghazra/github-readme-stats) -->
 
