@@ -75,7 +75,7 @@ ____________________
 ## World-Game  
 
 ~~~
-📌 Mobile game developed to make geography more fun
+📌 A mobile game developed to make geography more fun 🌎🌍🌏
 
 Final group project of Bootcamp Henry. 
 I worked as Front-End & Mobile Developer. 
