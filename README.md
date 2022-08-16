@@ -9,7 +9,9 @@ I love to challenge myself and solve problems. And that's something that in prog
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/felipe-tau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipe-tau/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,19 +21,77 @@ I love to challenge myself and solve problems. And that's something that in prog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feli-dev&layout=compact)](#)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Feli-dev)]() -->
 
-<!--
-**Feli-dev/Feli-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Checkout my work
+👇
+👇
+👇   
+____________________
+## Videogames SPA
 
-Here are some ideas to get you started:
+~~~
+📌 Proyecto Individual del Bootcamp Henry 
+Me desempeñe como Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Diseñe y desarrolle una pagina web sobre videojuegos que incluye:
+◉ Búsqueda por nombre
+◉ Filtrado, Ordenamiento y Paginado
+◉ Opción para crear un videojuego
+
+Se utilizo: 
+◉ Javascript
+◉ ReactJS
+◉ Redux
+◉ CSS puro
+◉ NodeJS
+◉ Express
+◉ PostgreSQL
+◉ Sequelize
+~~~
+<img align="left" margin= "20px" width= "450px"  src="./PI-Images/1 - landing.jpg"/>
+<img align="center" margin= "20px" width= "450px" src="./PI-Images/2 - home.jpg" />
+<img align="left" margin= "20px" width= "450px"  src="./PI-Images/3 - form.jpg" />
+<img align="center" margin= "20px" width= "450px" src="./PI-Images/4 - detail.jpg" />
+
+____________________
+## World-Game  
+
+~~~
+📌 Un juego de móvil desarrollado para hacer la geografía más divertida
+
+Proyecto grupal final del Bootcamp Henry. 
+Me desempeñé como Front-End & Mobile Developer. 
+
+El proyecto cuenta con una versión mobile, una versión web y un panel de administrador.
+
+Tecnologías:
+🎮 Database: PostgreSQL
+🎮 Back-End: NodeJs, Express, Sequelize
+🎮 Front-End: React JS, React Native, Redux, Tailwind, Material-UI, HTML
+🎮 Librearías Adicionales: 
+✔ Socket-IO (Chat integrado)
+✔ Chart.js (Gráficas en tiempo real)
+✔ Stripe (Pasarela de pagos)
+✔ Cloudinary (Subir foto de perfil)
+✔ Nodemailer (Envío de mails)
+~~~
+<img align="left" width= "250px" margin= "20px"  src='./PF-Images/game.png' />
+<img align="center" width= "250px" margin= "20px"  src='./PF-Images/Profile.png' />
+<img align="left" width= "250px" margin= "20px"  src='./PF-Images/Presentancion.png' />
+<img align="center" width= "250px" margin= "20px"  src='./PF-Images/stats.png' />  
+
+___________________________________________
+
+
+
+## 📫 CONTACT ME
+
+¿Quieres que trabajemos juntos?
+
+**Email:** felipetau0@gmail.com
+
+<p align="left">
+<a href="https://www.linkedin.com/in/felipe-tau/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" />
+</a>
+</p>
