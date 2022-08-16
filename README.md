@@ -17,7 +17,7 @@ I love to challenge myself and solve problems. And that's something that in prog
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Feli-dev&show_icons=true&locale=en" alt="Feli-dev" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Feli-dev)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Feli-dev)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Feli-dev/Feli-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
