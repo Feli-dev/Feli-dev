@@ -93,13 +93,37 @@ Tech Utils:
 ✔ Cloudinary (Upload profile picture)
 ✔ Nodemailer (Sending of mails)
 ~~~
+<h2> &nbsp; </h2>
+<h2><center>Mobile Game</center></h2>
+<h2> &nbsp; </h2>
 <p align="center">
-<img align="center" width="250px" src='./PF-Images/game.png' />
-<img align="center" width="250px" src='./PF-Images/Profile.png' />
+<img align="center" width="250px" src='./PF-Images/1 - login.jpg' />
+<img align="center" width="250px" src='./PF-Images/2 - game.jpg' />
 </p>
 <p align="center">
-<img align="center" width="250px" src='./PF-Images/Presentancion.png' />
-<img align="center" width="250px" src='./PF-Images/stats.png' />  
+<img align="center" width="250px" src='./PF-Images/3 - ranking.jpg' />
+<img align="center" width="250px" src='./PF-Images/4 - perfil.jpg' />  
+</p>
+<h2> &nbsp; </h2>
+<h2><center>Administrator Panel</center></h2>
+<h2> &nbsp; </h2>
+<p align="center">
+<img align="center" width="300px" src='./PF-Images/21 - homeadmin.jpg' />
+<img align="center" width="300px" src='./PF-Images/22 - useradmin.jpg' />
+</p>
+<p align="center">
+<img align="center" width="300px" src='./PF-Images/23 - gamesadmin.jpg' />
+<img align="center" width="300px" src='./PF-Images/24 - paymentadmin.jpg' />  
+</p>
+<p align="center">
+<img align="center" width="300px" src='./PF-Images/25 - reviewadmin.jpg' />
+</p>
+<h2> &nbsp; </h2>
+<h2><center>Web Game</center></h2>
+<h2> &nbsp; </h2>
+<p align="center">
+<img align="center" width="300px" src='./PF-Images/31 - loginweb.jpg' />
+<img align="center" width="300px" src='./PF-Images/32 - gameweb.jpg' />
 </p>
 
 ___________________________________________
